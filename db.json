@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "HP Envy",
+      "price": "750.00 GBP"
+    },
+    {
+      "id": "2",
+      "name": "Acer TravelMate",
+      "price": "700.00 USD"
+    },
+    {
+      "id": "3",
+      "name": "Macbook Pro",
+      "price": "500.00 GBP"
+    },
+    {
+      "name": "Acer 6754",
+      "price": "340 USD",
+      "id": "Hnrq26F"
+    },
+    {
+      "name": "Asus X",
+      "price": "1400 EUR",
+      "id": "iq-u0pC"
+    }
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "name": "Ignas Tarabilda",
+      "email": "hosse25uv@gmail.com"
+    }
+  ]
+}
